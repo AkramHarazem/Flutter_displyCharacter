@@ -7,4 +7,4 @@
 
 # :pushpin: Data source
 
-- I found this free API : [https://breakingbadapi.com/documentation](https://rickandmortyapi.com/api/)
+- I found this free API : [(https://rickandmortyapi.com/api/)](https://rickandmortyapi.com/api/)
